@@ -1,0 +1,7 @@
+pytube
+assemblyai
+srt_equalizer
+python-dotenv
+termcolor
+revChatGPT
+requests

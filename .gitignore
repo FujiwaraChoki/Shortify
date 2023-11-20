@@ -1,0 +1,6 @@
+__pycache__
+*.srt
+.env
+scr*.py
+*.mp3
+*.mp4
